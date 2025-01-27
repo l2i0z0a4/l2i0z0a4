@@ -1,11 +1,16 @@
-👋 Hi, I’m MEZIOUG Liza
+                                                                         👋 Hi, I’m MEZIOUG Liza
 👀 I’m interested in AI and Web Development
+
 💞️ I’m looking to collaborate on Web Development projects
+
 📫 How to reach me: lizamezioug22@gmail.com
 
 ✨ I am passionate about coding and always looking to learn new technologies.
+
 🔧 My skills include: HTML, CSS, JavaScript, React, Node.js, Tailwind CSS, PHP, Python, Flutter (Basic knowledge), Django (Basic knowledge)
+
 🚀 Currently, I am diving deep into AI  to integrate smarter solutions into web development.
+
 🌱 I am constantly improving my skills and excited to contribute to innovative projects.
 
 <!---
