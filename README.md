@@ -1,4 +1,4 @@
-                                                                         👋 Hi, I’m MEZIOUG Liza
+                                                               👋 Hi, I’m MEZIOUG Liza
 👀 I’m interested in AI and Web Development
 
 💞️ I’m looking to collaborate on Web Development projects
