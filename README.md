@@ -7,7 +7,7 @@
 
 ✨ I am passionate about coding and always looking to learn new technologies.
 
-🔧 My skills include: HTML, CSS, JavaScript, React, Node.js, Express.js,MongoDB,MySQL,PostegresSQL, Tailwind CSS, PHP, Python,,Flusk, Flutter (Basic knowledge), Django (Basic knowledge)
+🔧 My skills include: HTML, CSS, JavaScript, React, Node.js, Express.js,MongoDB,MySQL,SQL3,SQLite,PostegresSQL, Tailwind CSS, PHP, Python,,Flusk, Flutter (Basic knowledge), Django (Basic knowledge)
 
 🚀 Currently, I am diving deep into AI  to integrate smarter solutions into web development.
 
